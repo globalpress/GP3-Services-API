@@ -1,0 +1,25 @@
+
+.section-sm {
+	@apply py-8
+}	
+.section-md {
+	@apply py-12
+}	
+.section-lg {
+	@apply py-16
+}	
+.section-xl {
+	@apply py-20
+}	
+.section-2xl {
+	@apply py-24
+}	
+.section-3xl {
+	@apply py-28
+}	
+.section-4xl {
+	@apply py-32
+}	
+.section-full {
+	@apply h-screen flex items-center justify-center
+}

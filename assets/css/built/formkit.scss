@@ -1,0 +1,19 @@
+
+.formkit-family-text-message {
+	@apply mb-2
+}	
+.formkit-family-text-inner {
+	@apply px-7 py-72
+}	
+.formkit-family-button-wrapper {
+	@apply mb-60
+}	
+.formkit-family-text-help {
+	@apply [text]-[#F98E8E]
+}	/* Dark mode classes */
+.formkit-family-button-wrapper {
+	@apply dark:mb-80
+}	/* Dark mode classes */
+.formkit-family-text-help {
+	@apply dark:[text]-[#9747FF]
+}

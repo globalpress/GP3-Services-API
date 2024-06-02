@@ -1,0 +1,150 @@
+[
+  {
+    "name": "brand-dark-gray-50",
+    "value": "brand-dark-gray-50"
+  },
+  {
+    "name": "brand-dark-gray-100",
+    "value": "brand-dark-gray-100"
+  },
+  {
+    "name": "brand-dark-gray-200",
+    "value": "brand-dark-gray-200"
+  },
+  {
+    "name": "brand-dark-gray-300",
+    "value": "brand-dark-gray-300"
+  },
+  {
+    "name": "brand-dark-gray-400",
+    "value": "brand-dark-gray-400"
+  },
+  {
+    "name": "brand-dark-gray-500",
+    "value": "brand-dark-gray-500"
+  },
+  {
+    "name": "brand-dark-gray-600",
+    "value": "brand-dark-gray-600"
+  },
+  {
+    "name": "brand-dark-gray-700",
+    "value": "brand-dark-gray-700"
+  },
+  {
+    "name": "brand-dark-gray-800",
+    "value": "brand-dark-gray-800"
+  },
+  {
+    "name": "brand-dark-gray-900",
+    "value": "brand-dark-gray-900"
+  },
+  {
+    "name": "brand-dark-gray-950",
+    "value": "brand-dark-gray-950"
+  },
+  {
+    "name": "brand-dark-gray-1000",
+    "value": "brand-dark-gray-1000"
+  },
+  {
+    "name": "brand-light-gray-50",
+    "value": "brand-light-gray-50"
+  },
+  {
+    "name": "brand-light-gray-100",
+    "value": "brand-light-gray-100"
+  },
+  {
+    "name": "brand-light-gray-200",
+    "value": "brand-light-gray-200"
+  },
+  {
+    "name": "brand-light-gray-300",
+    "value": "brand-light-gray-300"
+  },
+  {
+    "name": "brand-light-gray-400",
+    "value": "brand-light-gray-400"
+  },
+  {
+    "name": "brand-light-gray-500",
+    "value": "brand-light-gray-500"
+  },
+  {
+    "name": "brand-light-gray-600",
+    "value": "brand-light-gray-600"
+  },
+  {
+    "name": "brand-light-gray-700",
+    "value": "brand-light-gray-700"
+  },
+  {
+    "name": "brand-light-gray-800",
+    "value": "brand-light-gray-800"
+  },
+  {
+    "name": "brand-light-gray-900",
+    "value": "brand-light-gray-900"
+  },
+  {
+    "name": "brand-light-gray-950",
+    "value": "brand-light-gray-950"
+  },
+  {
+    "name": "#000000 (black)",
+    "value": "black"
+  },
+  {
+    "name": "#FFFFFF (white)",
+    "value": "white"
+  },
+  {
+    "name": "brand-primary-50",
+    "value": "brand-primary-50"
+  },
+  {
+    "name": "brand-primary-100",
+    "value": "brand-primary-100"
+  },
+  {
+    "name": "brand-primary-200",
+    "value": "brand-primary-200"
+  },
+  {
+    "name": "brand-primary-300",
+    "value": "brand-primary-300"
+  },
+  {
+    "name": "brand-primary-400",
+    "value": "brand-primary-400"
+  },
+  {
+    "name": "brand-primary-500",
+    "value": "brand-primary-500"
+  },
+  {
+    "name": "brand-primary-600",
+    "value": "brand-primary-600"
+  },
+  {
+    "name": "brand-primary-700",
+    "value": "brand-primary-700"
+  },
+  {
+    "name": "brand-primary-800",
+    "value": "brand-primary-800"
+  },
+  {
+    "name": "brand-primary-900",
+    "value": "brand-primary-900"
+  },
+  {
+    "name": "brand-primary-950",
+    "value": "brand-primary-950"
+  },
+  {
+    "name": "brand-primary-1000",
+    "value": "brand-primary-1000"
+  }
+]

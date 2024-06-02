@@ -1,0 +1,54 @@
+[
+  {
+    "name": "12px (xs)",
+    "value": "xs"
+  },
+  {
+    "name": "144px (9xl)",
+    "value": "9xl"
+  },
+  {
+    "name": "18px (lg)",
+    "value": "lg"
+  },
+  {
+    "name": "16px (base)",
+    "value": "base"
+  },
+  {
+    "name": "14px (sm)",
+    "value": "sm"
+  },
+  {
+    "name": "96px (8xl)",
+    "value": "8xl"
+  },
+  {
+    "name": "72px (7xl)",
+    "value": "7xl"
+  },
+  {
+    "name": "60px (6xl)",
+    "value": "6xl"
+  },
+  {
+    "name": "48px (5xl)",
+    "value": "5xl"
+  },
+  {
+    "name": "36px (4xl)",
+    "value": "4xl"
+  },
+  {
+    "name": "30px (3xl)",
+    "value": "3xl"
+  },
+  {
+    "name": "24px (2xl)",
+    "value": "2xl"
+  },
+  {
+    "name": "20px (xl)",
+    "value": "xl"
+  }
+]

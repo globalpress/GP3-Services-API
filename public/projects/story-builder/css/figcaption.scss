@@ -1,0 +1,16 @@
+
+figcaption {
+	@apply flex flex-col gap-1 relative w-full
+}	
+.figcaption-below {
+	@apply mt-2
+}	
+.figcaption-caption {
+	@apply font-semibold mb-px text-xs uppercase
+}	
+.figcaption-credit {
+	@apply mb-1 text-xs
+}	
+.figcaption-inset {
+	@apply absolute bg-black/80 bottom-0 px-3 py-2.5 text-brand-light-gray-50
+}

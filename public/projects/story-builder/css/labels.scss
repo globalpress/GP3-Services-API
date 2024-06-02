@@ -1,0 +1,16 @@
+
+.label-xs {
+	@apply py-px px-3 text-xs
+}	
+.label-sm {
+	@apply py-1 px-4 text-xs
+}	
+.label {
+	@apply uppercase bg-brand-light-gray-50 text-brand-dark-gray-1000 inline-block font-semibold
+}	
+.label-md {
+	@apply py-2 px-6 text-sm
+}	
+.label-lg {
+	@apply py-2 px-8 text-base
+}

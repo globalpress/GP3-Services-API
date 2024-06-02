@@ -1,0 +1,13 @@
+
+h2 {
+	@apply text-5xl lg:text-6xl xl:text-7xl
+}	
+.heading {
+	@apply text-brand-dark-gray-1000
+}	
+.heading-serif {
+	@apply font-serif
+}	
+.heading-sans {
+	@apply font-sans
+}

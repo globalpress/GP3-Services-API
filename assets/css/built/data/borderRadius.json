@@ -1,0 +1,34 @@
+[
+  {
+    "name": "0px (none)",
+    "value": "none"
+  },
+  {
+    "name": "9999px (full)",
+    "value": "full"
+  },
+  {
+    "name": "4px (rounded)",
+    "value": "rounded"
+  },
+  {
+    "name": "2px (sm)",
+    "value": "sm"
+  },
+  {
+    "name": "6px (md)",
+    "value": "md"
+  },
+  {
+    "name": "8px (lg)",
+    "value": "lg"
+  },
+  {
+    "name": "12px (xl)",
+    "value": "xl"
+  },
+  {
+    "name": "16px (2xl)",
+    "value": "2xl"
+  }
+]

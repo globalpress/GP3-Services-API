@@ -1,0 +1,22 @@
+[
+  {
+    "name": "640px (sm)",
+    "value": "sm"
+  },
+  {
+    "name": "768px (md)",
+    "value": "md"
+  },
+  {
+    "name": "1024px (lg)",
+    "value": "lg"
+  },
+  {
+    "name": "1280px (xl)",
+    "value": "xl"
+  },
+  {
+    "name": "1536px (2xl)",
+    "value": "2xl"
+  }
+]
